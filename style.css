@@ -1,1 +1,62 @@
+<<<<<<< HEAD
 
+=======
+body {
+    background-image: url(img/egesha\ background.png);
+    backdrop-filter: blur(100px);
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+
+p {
+    color: #fff;
+    text-shadow: #000;
+    text-decoration-color: aqua;
+}
+
+h1,
+h2,
+form {
+    text-align: center;
+    color: #fff;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#parking-lot {
+    margin-bottom: 20px;
+}
+
+.car {
+    border: 5px dotted #ed2323;
+    padding: 10px;
+    margin: 10px 0;
+    flex: 50%;
+}
+
+form center {
+    display: flex;
+    float: left;
+    width: 50%;
+}
+
+label {
+    margin: 5px 0;
+}
+
+button {
+    color: #fff;
+    margin-top: 10px;
+    background-color: #ed2323;
+}
+
+button:hover {
+    background-color: black;
+    cursor: pointer;
+}
+>>>>>>> d0b6c52 (Initial commit)

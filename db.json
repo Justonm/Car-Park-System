@@ -1,1 +1,22 @@
+<<<<<<< HEAD
 
+=======
+{
+  "cars": [
+    {
+      "id": 1,
+      "numberPlate": "KDG 967R",
+      "model": "Nissan Ryder",
+      "owner": "Justus Mutuku",
+      "parkedAt": "2024-08-04T20:41:49.411Z"
+    },
+    {
+      "id": 2,
+      "numberPlate": "KCU 123",
+      "model": "Toyota",
+      "owner": "Justus",
+      "parkedAt": "2024-08-04T20:50:52.946Z"
+    }
+  ]
+}
+>>>>>>> d0b6c52 (Initial commit)
