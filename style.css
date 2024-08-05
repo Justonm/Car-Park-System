@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 body {
     background-image: url(img/egesha\ background.png);
     backdrop-filter: blur(100px);
@@ -59,4 +56,3 @@ button:hover {
     background-color: black;
     cursor: pointer;
 }
->>>>>>> d0b6c52 (Initial commit)

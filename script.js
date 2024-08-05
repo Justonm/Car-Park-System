@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 document.addEventListener('DOMContentLoaded', () => {
   const parkingLot = document.getElementById('parking-lot');
   const addCarForm = document.getElementById('add-car-form');
@@ -94,4 +91,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
   fetchCars();
 });
->>>>>>> d0b6c52 (Initial commit)
